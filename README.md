@@ -1,8 +1,10 @@
 # IMDD-1M: Towards Open-Vocabulary Industrial Defect Understanding
 
-
-[![Dataset](https://img.shields.io/badge/Dataset-1.24M%20Images-green)](https://github.com/yourusername/IMDD-1M)
+[![Dataset](https://img.shields.io/badge/Dataset-1.24M%20Images-green)](https://github.com/NinaNeon/IMDD-1M-Towards-Open-Vocabulary-Industrial-Defect-)
+[![Project Page](https://img.shields.io/badge/Project-Page-blue)](https://your-project-page-url)
+[![arXiv](https://img.shields.io/badge/arXiv-XXXX.XXXXX-b31b1b.svg)](https://arxiv.org/abs/XXXX.XXXXX)
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+
 
 > **Towards Open-Vocabulary Industrial Defect Understanding with a Large-Scale Multimodal Dataset**  
 >  2026 Submission #****
