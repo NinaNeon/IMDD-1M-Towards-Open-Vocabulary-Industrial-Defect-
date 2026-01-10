@@ -231,6 +231,17 @@ Aligned image-text pairs enable vision-language understanding with fine-grained 
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+## Model Usage Notice
+The models, model weights, checkpoints, and any generated outputs
+associated with this project are released for academic research
+and educational purposes only.
+
+Commercial use, including but not limited to use in for-profit
+products, services, internal industrial deployment, or technology
+transfer, is strictly prohibited without prior written permission
+from the authors.
+
+Please contact the authors for commercial licensing inquiries.
 
 ## Acknowledgments
 
