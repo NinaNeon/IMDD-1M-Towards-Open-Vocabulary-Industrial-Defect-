@@ -3,6 +3,7 @@
 [![Dataset](https://img.shields.io/badge/Dataset-1.24M%20Images-green)](https://github.com/NinaNeon/IMDD-1M-Towards-Open-Vocabulary-Industrial-Defect-)
 [![Project Page](https://img.shields.io/badge/Project-Page-blue)](https://ninaneon.github.io/projectpage/)
 [![arXiv](https://img.shields.io/badge/arXiv-2512.24160-b31b1b.svg)](https://arxiv.org/abs/2512.24160)
+[![Hugging Face Papers](https://img.shields.io/badge/HuggingFace-Paper-yellow)](https://huggingface.co/papers/2512.24160)
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 
